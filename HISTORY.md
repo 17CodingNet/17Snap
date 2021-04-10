@@ -2,6 +2,21 @@
 
 ## in development:
 
+## 6.7.4
+* **Notable Fixes:**
+    * fixed DEAL in the APL library, thanks, Brian!
+    * fixed a resizing edge case bug for the stage prompter (ASK command)
+    * fixed finding "index of" block by search 
+
+### 2021-04-09
+* objects fixed #2821 - "index of" block not found by search
+* prepared patch
+
+### 2021-03-28
+* new dev version
+* fixed DEAL in the APL library, thanks, Brian!
+* objects: fixed a resizing edge case bug for the stage prompter (ASK command)
+
 ## 6.7.3
 * **Notable Changes:**
     * hyperized "key _ pressed?" predicate
